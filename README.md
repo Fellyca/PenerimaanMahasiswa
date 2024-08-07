@@ -27,8 +27,8 @@ Proyek ini adalah website pendaftaran mahasiswa yang dibuat menggunakan framewor
 
 ## Instalasi
 - **Clone Repositori**
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/fellyca/PenerimaanMahasiswa.git
+   cd PenerimaanMahasiswa
 
 - **Konfigurasi Database**
     DB_CONNECTION=mysql
