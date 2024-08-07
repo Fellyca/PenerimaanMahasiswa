@@ -27,25 +27,36 @@ Proyek ini adalah website pendaftaran mahasiswa yang dibuat menggunakan framewor
 
 ## Instalasi
 - **Clone Repositori**
+
    git clone https://github.com/fellyca/PenerimaanMahasiswa.git
+
    cd PenerimaanMahasiswa
 
 - **Konfigurasi Database**
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=calonmhs
-    DB_USERNAME=root
-    DB_PASSWORD=
+
+   DB_CONNECTION=mysql
+
+   DB_HOST=127.0.0.1
+
+   DB_PORT=3306
+
+   DB_DATABASE=calonmhs
+
+   DB_USERNAME=root
+
+   DB_PASSWORD=
 
 - **Migrasi Dan Seed Database**
-    php artisan migrate --seed
+
+   php artisan migrate --seed
 
 ## Menjalankan Aplikasi
 - **Perintah Terminal**
+
    php artisan serve
 
 - **Laragon**
-    Menjalankan dari laragon dengan pretty url
+
+   Menjalankan dari laragon dengan pretty url
 
 
